@@ -5,9 +5,9 @@ This repository is my personal coding playground where I tackle various coding p
 📂 **Repository Structure:**
 
 - **problemSolving:** Explore implementations of classic algorithms, from sorting and searching to dynamic programming and more.
-  - **Source** The source of problem for example Algoexpert
+  - **Source** The source code of the problem solving track like `leetcode` and `hackerrank`
     - **DataStructures:** Discover the building blocks of coding through hands-on implementations of arrays, linked lists, trees, and beyond.
-      - **Resources:** Find detailed notes, explanations, and Jupyter notebooks to enhance understanding of key concepts.
+      - **Notebook:** Jupyter notebooks for the data structures.
       - **solution pattern:** a strategy for solving a specific category of problems
 - **Contributions:** Contribute your solutions and insights, and let's learn and grow together!
 
